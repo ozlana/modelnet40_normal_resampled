@@ -1,0 +1,2 @@
+# modelnet40_normal_resampled
+dataset_modelnet40_normal_resampled
